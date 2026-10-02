@@ -16,6 +16,7 @@
 .section { padding: 5rem 2rem; max-width: 900px; margin: 0 auto; }
 .section h2 { margin-bottom: 1rem; }
 
+.about { background: white; }
 .home { text-align: center; padding: 7rem 1rem; background: #eef2ff; }
 .home h1 { font-size: 2.8rem; margin-bottom: 1rem; }
 .btn { display: inline-block; margin-top: 1.5rem; padding: 0.7rem 1.6rem; background: #4f46e5; color: white; border-radius: 8px; text-decoration: none; }
