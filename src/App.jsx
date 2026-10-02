@@ -1,5 +1,6 @@
 import './App.css'
 import Navbar from './components/Navbar'
+import Login from './components/Login'
 import Signup from './components/Signup'
 import Contact from './components/Contact'
 import Projects from './components/Projects'
@@ -11,6 +12,7 @@ function App() {
     <>
       <Navbar />
       <main id="top">
+        <Login />
         <Signup />
         <Contact />
         <Projects />

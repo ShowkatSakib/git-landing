@@ -4,6 +4,7 @@ function Navbar() {
       <h2 className="logo">MySite</h2>
       <ul>
         <li><a href="#top">Top</a></li>
+        <li><a href="#login">Login</a></li>
         <li><a href="#signup">Sign Up</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="#projects">Projects</a></li>
